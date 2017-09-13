@@ -2,7 +2,7 @@
 <html>
   <head>
     <meta charset="utf-8">
-    <title>Go by Example: Environment Variables</title>
+    <title>Go в примерах: Environment Variables</title>
     <link rel=stylesheet href="site.css">
   </head>
   <script type="text/javascript">
@@ -19,7 +19,7 @@
   </script>
   <body>
     <div class="example" id="environment-variables">
-      <h2><a href="./">Go by Example</a>: Environment Variables</h2>
+      <h2><a href="./index.html">Go в примерах</a>: Environment Variables</h2>
       
       <table>
         
@@ -173,11 +173,11 @@ program picks that value up.</p>
       
       
       <p class="next">
-        Next example: <a href="spawning-processes">Spawning Processes</a>.
+        Следующий пример: <a href="spawning-processes">Spawning Processes</a>.
       </p>
       
       <p class="footer">
-        by <a href="https://twitter.com/mmcgrana">@mmcgrana</a> | <a href="mailto:mmcgrana@gmail.com">feedback</a> | <a href="https://github.com/mmcgrana/gobyexample/blob/master/examples/environment-variables">source</a> | <a href="https://github.com/mmcgrana/gobyexample#license">license</a>
+        by <a href="https://github.com/evro23x">@evro23x</a> | <a href="mailto:evro23x@gmail.com">feedback</a> | <a href="https://github.com/evro23x/gobyexample/blob/master/examples/environment-variables">source</a> | <a href="https://github.com/evro23x/gobyexample#license">license</a>
       </p>
     </div>
   </body>

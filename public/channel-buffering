@@ -2,7 +2,7 @@
 <html>
   <head>
     <meta charset="utf-8">
-    <title>Go by Example: Channel Buffering</title>
+    <title>Go в примерах: Channel Buffering</title>
     <link rel=stylesheet href="site.css">
   </head>
   <script type="text/javascript">
@@ -19,7 +19,7 @@
   </script>
   <body>
     <div class="example" id="channel-buffering">
-      <h2><a href="./">Go by Example</a>: Channel Buffering</h2>
+      <h2><a href="./index.html">Go в примерах</a>: Channel Buffering</h2>
       
       <table>
         
@@ -142,11 +142,11 @@ concurrent receive.</p>
       
       
       <p class="next">
-        Next example: <a href="channel-synchronization">Channel Synchronization</a>.
+        Следующий пример: <a href="channel-synchronization">Channel Synchronization</a>.
       </p>
       
       <p class="footer">
-        by <a href="https://twitter.com/mmcgrana">@mmcgrana</a> | <a href="mailto:mmcgrana@gmail.com">feedback</a> | <a href="https://github.com/mmcgrana/gobyexample/blob/master/examples/channel-buffering">source</a> | <a href="https://github.com/mmcgrana/gobyexample#license">license</a>
+        by <a href="https://github.com/evro23x">@evro23x</a> | <a href="mailto:evro23x@gmail.com">feedback</a> | <a href="https://github.com/evro23x/gobyexample/blob/master/examples/channel-buffering">source</a> | <a href="https://github.com/evro23x/gobyexample#license">license</a>
       </p>
     </div>
   </body>

@@ -2,7 +2,7 @@
 <html>
   <head>
     <meta charset="utf-8">
-    <title>Go by Example: Non-Blocking Channel Operations</title>
+    <title>Go в примерах: Non-Blocking Channel Operations</title>
     <link rel=stylesheet href="site.css">
   </head>
   <script type="text/javascript">
@@ -19,7 +19,7 @@
   </script>
   <body>
     <div class="example" id="non-blocking-channel-operations">
-      <h2><a href="./">Go by Example</a>: Non-Blocking Channel Operations</h2>
+      <h2><a href="./index.html">Go в примерах</a>: Non-Blocking Channel Operations</h2>
       
       <table>
         
@@ -162,11 +162,11 @@ on both <code>messages</code> and <code>signals</code>.</p>
       
       
       <p class="next">
-        Next example: <a href="closing-channels">Closing Channels</a>.
+        Следующий пример: <a href="closing-channels">Closing Channels</a>.
       </p>
       
       <p class="footer">
-        by <a href="https://twitter.com/mmcgrana">@mmcgrana</a> | <a href="mailto:mmcgrana@gmail.com">feedback</a> | <a href="https://github.com/mmcgrana/gobyexample/blob/master/examples/non-blocking-channel-operations">source</a> | <a href="https://github.com/mmcgrana/gobyexample#license">license</a>
+        by <a href="https://github.com/evro23x">@evro23x</a> | <a href="mailto:evro23x@gmail.com">feedback</a> | <a href="https://github.com/evro23x/gobyexample/blob/master/examples/non-blocking-channel-operations">source</a> | <a href="https://github.com/evro23x/gobyexample#license">license</a>
       </p>
     </div>
   </body>

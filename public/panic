@@ -2,7 +2,7 @@
 <html>
   <head>
     <meta charset="utf-8">
-    <title>Go by Example: Panic</title>
+    <title>Go в примерах: Panic</title>
     <link rel=stylesheet href="site.css">
   </head>
   <script type="text/javascript">
@@ -19,7 +19,7 @@
   </script>
   <body>
     <div class="example" id="panic">
-      <h2><a href="./">Go by Example</a>: Panic</h2>
+      <h2><a href="./index.html">Go в примерах</a>: Panic</h2>
       
       <table>
         
@@ -161,11 +161,11 @@ to use error-indicating return values wherever possible.</p>
       
       
       <p class="next">
-        Next example: <a href="defer">Defer</a>.
+        Следующий пример: <a href="defer">Defer</a>.
       </p>
       
       <p class="footer">
-        by <a href="https://twitter.com/mmcgrana">@mmcgrana</a> | <a href="mailto:mmcgrana@gmail.com">feedback</a> | <a href="https://github.com/mmcgrana/gobyexample/blob/master/examples/panic">source</a> | <a href="https://github.com/mmcgrana/gobyexample#license">license</a>
+        by <a href="https://github.com/evro23x">@evro23x</a> | <a href="mailto:evro23x@gmail.com">feedback</a> | <a href="https://github.com/evro23x/gobyexample/blob/master/examples/panic">source</a> | <a href="https://github.com/evro23x/gobyexample#license">license</a>
       </p>
     </div>
   </body>

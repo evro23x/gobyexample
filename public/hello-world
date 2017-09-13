@@ -2,7 +2,7 @@
 <html>
   <head>
     <meta charset="utf-8">
-    <title>Go by Example: Hello World</title>
+    <title>Go в примерах: Hello World</title>
     <link rel=stylesheet href="site.css">
   </head>
   <script type="text/javascript">
@@ -19,14 +19,14 @@
   </script>
   <body>
     <div class="example" id="hello-world">
-      <h2><a href="./">Go by Example</a>: Hello World</h2>
+      <h2><a href="./index.html">Go в примерах</a>: Hello World</h2>
       
       <table>
         
         <tr>
           <td class="docs">
-            <p>Our first program will print the classic &ldquo;hello world&rdquo;
-message. Here&rsquo;s the full source code.</p>
+            <p>Наша первая программа будет выводить на экран классическое сообщение &ldquo;hello world&rdquo;.
+            Справа полный исходный код.</p>
 
           </td>
           <td class="code leading">
@@ -69,8 +69,7 @@ message. Here&rsquo;s the full source code.</p>
         
         <tr>
           <td class="docs">
-            <p>To run the program, put the code in <code>hello-world.go</code> and
-use <code>go run</code>.</p>
+            <p>Для запуска программы поместите код в файл <code>hello-world.go</code> и вызовите <code>go run</code>.</p>
 
           </td>
           <td class="code leading">
@@ -84,8 +83,7 @@ use <code>go run</code>.</p>
         
         <tr>
           <td class="docs">
-            <p>Sometimes we&rsquo;ll want to build our programs into
-binaries. We can do this using <code>go build</code>.</p>
+            <p>Если нам необходимо мы можем скомпилировать код. Для этого используется <code>go build</code>.</p>
 
           </td>
           <td class="code leading">
@@ -100,7 +98,7 @@ binaries. We can do this using <code>go build</code>.</p>
         
         <tr>
           <td class="docs">
-            <p>We can then execute the built binary directly.</p>
+            <p>Затем мы можем выполнить двоичный код напрямую.</p>
 
           </td>
           <td class="code leading">
@@ -114,8 +112,7 @@ binaries. We can do this using <code>go build</code>.</p>
         
         <tr>
           <td class="docs">
-            <p>Now that we can run and build basic Go programs, let&rsquo;s
-learn more about the language.</p>
+            <p>Теперь мы можешь запускать и компилировать Go программы, приступим к дальнейшему изучению языка.</p>
 
           </td>
           <td class="code empty">
@@ -128,11 +125,11 @@ learn more about the language.</p>
       
       
       <p class="next">
-        Next example: <a href="values">Values</a>.
+        Следующий пример: <a href="values">Values</a>.
       </p>
       
       <p class="footer">
-        by <a href="https://twitter.com/mmcgrana">@mmcgrana</a> | <a href="mailto:mmcgrana@gmail.com">feedback</a> | <a href="https://github.com/mmcgrana/gobyexample/blob/master/examples/hello-world">source</a> | <a href="https://github.com/mmcgrana/gobyexample#license">license</a>
+        by <a href="https://github.com/evro23x">@evro23x</a> | <a href="mailto:evro23x@gmail.com">feedback</a> | <a href="https://github.com/evro23x/gobyexample/blob/master/examples/hello-world">source</a> | <a href="https://github.com/evro23x/gobyexample#license">license</a>
       </p>
     </div>
   </body>
